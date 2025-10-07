@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2AF17-53FE-4224-BAA1-57153C8C40C6}|DIP\\DIP.csproj|c:\\users\\bruce\\desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\dip-mdi\\dip\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D2AF17-53FE-4224-BAA1-57153C8C40C6}|DIP\\DIP.csproj|solutionrelative:dip\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2AF17-53FE-4224-BAA1-57153C8C40C6}|DIP\\DIP.csproj|C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\dip\\dipsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D2AF17-53FE-4224-BAA1-57153C8C40C6}|DIP\\DIP.csproj|solutionrelative:dip\\dipsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2AF17-53FE-4224-BAA1-57153C8C40C6}|DIP\\DIP.csproj|C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\dip\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3D2AF17-53FE-4224-BAA1-57153C8C40C6}|DIP\\DIP.csproj|solutionrelative:dip\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2AF17-53FE-4224-BAA1-57153C8C40C6}|DIP\\DIP.csproj|C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\dip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D2AF17-53FE-4224-BAA1-57153C8C40C6}|DIP\\DIP.csproj|solutionrelative:dip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 225,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\DIP\\Form1.cs",
+              "RelativeDocumentMoniker": "DIP\\Form1.cs",
+              "ToolTip": "C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\DIP\\Form1.cs",
+              "RelativeToolTip": "DIP\\Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:39.415Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\DIP\\Form2.cs",
+              "RelativeDocumentMoniker": "DIP\\Form2.cs",
+              "ToolTip": "C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\DIP\\Form2.cs",
+              "RelativeToolTip": "DIP\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:32:02.373Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DIPSample.cs",
+              "DocumentMoniker": "C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\DIP\\DIPSample.cs",
+              "RelativeDocumentMoniker": "DIP\\DIPSample.cs",
+              "ToolTip": "C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\DIP\\DIPSample.cs",
+              "RelativeToolTip": "DIP\\DIPSample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:39.419Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\bruce\\Desktop\\112-2\\112-2\u6578\u4F4D\u5F71\u50CF\u8655\u7406\\\u671F\u672B\u5C08\u984C\\DIP-MDI\\DIP\\Form2.cs",
+              "RelativeDocumentMoniker": "DIP\\Form2.cs",
+              "ToolTip": "C:\\Users\\bruce\\Downloads\\DIP-MDI\\DIP\\Form2.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\DIP-MDI\\DIP\\Form2.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:23:01.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
